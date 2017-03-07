@@ -1,0 +1,49 @@
+# Basic
+title: Babywolf
+subtitle: 笃信好学, 自然宽和
+# welcome_message: ObjC 中国与 objc.io 合作最新作品<a href="https://objccn.io/products/" target="_blank">《函数式 Swift》,《Core Data》及《Swift 进阶》已经发布</a>，<a href="https://www.boxueio.com/register/ec84c3dd183b0acc820d5eae474d499d">泊学网正在开展订阅赠书活动，也欢迎前往了解</a>
+description: 嗨，我是何滨 (@babywolf)，一名来自中国的 iOS 开发者。
+# 头像里面的标题
+avatarTitle: Babywolf
+# 头像里面的描述
+avatarDesc: Java & iOS
+creator: <a href="">@babywolf</a>
+
+url: "http://babywolf1992.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: 
+
+blog_button:
+    title: 博客
+    description: 访问博客
+
+nav:
+    - {title: 项目, description: 我的项目, url: 'http://babywolf.tk'}
+    - {title: 关于, description: 了解更多关于我, url: '/about'}
+    - {title: 订阅, description: 邮件订阅本站}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: onevcat
+    # duoshuo:
+# Social
+social:
+    weibo: babywolf1997
+    github: babywolf1992
+    mail: 591138406@qq.com
+
+# Google Analytics
+ga:
+    id: UA-87669753-1
+    host: auto
