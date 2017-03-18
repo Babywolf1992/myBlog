@@ -35,8 +35,8 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-#    disqus: babywolf
-     duoshuo: babywolf
+    disqus: onevcat
+    # duoshuo:
 # Social
 social:
     weibo: babywolf1997
