@@ -26,7 +26,7 @@ blog_button:
 nav:
     - {title: 项目, description: 我的项目, url: 'http://babywolf.tk'}
     - {title: 关于, description: 了解更多关于我, url: '/about'}
-    - {title: 订阅, description: 邮件订阅本站}
+    - {title: 订阅, description: 邮件订阅本站, url: 'http://babywolf.tk'}
 
 # Pagination
 gems: [jekyll-paginate]
