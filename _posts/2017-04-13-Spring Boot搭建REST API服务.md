@@ -94,5 +94,10 @@ pom.xml
 
 @RequestParam 可以对请求的参数进行绑定，@PathVariable可以动态获取url中的数据，大家可以自己动手写一写，就明白其中含义。
 
-测试
-![](/assets/images/2017/新光村-1.jpg)
+## 测试截图
+http://localhost:8080/index
+![](/assets/images/2017/Spring-Boot搭建REST-API服务-1.png)
+http://localhost:8080/index/get/1/babywolf
+![](/assets/images/2017/Spring-Boot搭建REST-API服务-2.png)
+http://localhost:8080/index/get?name=babywolf
+![](/assets/images/2017/Spring-Boot搭建REST-API服务-3.png)
