@@ -93,3 +93,6 @@ pom.xml
     
 
 @RequestParam 可以对请求的参数进行绑定，@PathVariable可以动态获取url中的数据，大家可以自己动手写一写，就明白其中含义。
+
+测试
+![](/assets/images/2017/新光村-1.jpg)
