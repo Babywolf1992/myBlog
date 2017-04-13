@@ -101,3 +101,5 @@ http://localhost:8080/index/get/1/babywolf
 ![](/assets/images/2017/Spring-Boot搭建REST-API服务-2.png)
 http://localhost:8080/index/get?name=babywolf
 ![](/assets/images/2017/Spring-Boot搭建REST-API服务-3.png)
+
+返回数据为字符串，数组，json。客户端获取数据进行显示。该示例地址[demo](https://github.com/Babywolf1992/spring-boot-restfulAPI)
