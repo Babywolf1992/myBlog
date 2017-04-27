@@ -88,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-04-24-宜兴之旅.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.3482972">
+              <first_editor vertical-scroll-proportion="0.0">
                 <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
                 <folding />
               </first_editor>
@@ -104,8 +104,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-03-07-一些开源框架分享.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.628483">
-                <caret line="60" column="59" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
+              <first_editor vertical-scroll-proportion="0.51397514">
+                <caret line="58" column="45" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -215,8 +215,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -293,6 +291,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -735,7 +735,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-24-宜兴之旅.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.3482972">
+          <first_editor vertical-scroll-proportion="0.0">
             <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
             <folding />
           </first_editor>
@@ -749,8 +749,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-07-一些开源框架分享.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.628483">
-            <caret line="60" column="59" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
+          <first_editor vertical-scroll-proportion="0.51397514">
+            <caret line="58" column="45" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
             <folding />
           </first_editor>
           <second_editor />
