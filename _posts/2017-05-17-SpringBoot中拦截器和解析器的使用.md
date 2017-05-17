@@ -57,6 +57,8 @@ argumentResolver:
 
 这里的AuthorizationIntercepter与CurrentUserMethodArgumentResolver是我自定义的拦截器和解析器。值得注意的是@Configuration注解千万不能少，不然MvcConfig不会作为配置文件加载类被调用，使得项目确实配置项，完整的代码：
 
+AuthorizationIntercepter:
+
     @Component
     public class AuthorizationIntercepter extends HandlerInterceptorAdapter {
         @Autowired
@@ -83,6 +85,8 @@ argumentResolver:
             return true;
         }
     }
+
+CurrentUserMethodArgumentResolver:
 
     @Component
     public class CurrentUserMethodArgumentResolver implements HandlerMethodArgumentResolver {
