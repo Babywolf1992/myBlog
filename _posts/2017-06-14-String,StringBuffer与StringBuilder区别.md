@@ -7,7 +7,7 @@ tags: 能工巧匠集
 
 String、StringBuffer、StringBuilder这三个类，学习Java的同学应该都有印象。我刚开始学习的时候也背过它们之间的区别。但实际使用中，往往还是一知半解。等到我开始接触到iOS开发时，开始熟练使用里面的NSString与NSMutableString后。才慢慢发现Java中这三者的关系。这两天回过头来，又重新复习一遍，豁然开朗。
 
-可变字符串与不可变字符串
+## 可变字符串与不可变字符串
 
 在iOS中NSString表示不可变字符串，NSMutableString表示可变字符串。在Java中String是不可变字符串（因为Java简洁的语法，导致很长一段时间我都误认为String就是可变字符串）。而实际上String只是一个不可变字符串，而StringBuffer和StringBuilder才是Java中的可变字符串。比如你可能会像这样写：
 
@@ -20,7 +20,7 @@ String型的变量string明明已经发生变化，为什么说是不可变呢? 
 
 
 
-StringBuilder与StringBuffer
+## StringBuilder与StringBuffer
 
 StringBuilder：非线程安全的，单线程下使用，速度相对较快。
 
