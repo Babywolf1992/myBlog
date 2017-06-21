@@ -23,3 +23,7 @@ tags: 能工巧匠集
 ## StringBuilder与StringBuffer
 
 StringBuilder：非线程安全的，单线程下使用，速度相对较快。
+
+StringBuffer：线程安全的，多线程操作使用保证数据安全，速度较慢。
+
+  随着不断的学习，慢慢发现语言之间的相通之处。
