@@ -18,8 +18,6 @@ tags: 能工巧匠集
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而StringBuffer与StringBuilder就不一样了，他们是字符串变量，是可改变的对象，每当我们用它们对字符串做操作时，实际上是在一个对象上操作的，这样就不会像String一样创建一些而外的对象进行操作的。
 
-
-
 ## StringBuilder与StringBuffer
 
 StringBuilder：非线程安全的，单线程下使用，速度相对较快。
