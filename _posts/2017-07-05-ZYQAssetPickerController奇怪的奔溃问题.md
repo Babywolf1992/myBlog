@@ -6,6 +6,9 @@ tags: 能工巧匠集
 ---
 
 前段时间开发了一个功能，相册里面支持选择照片和视频。我使用了[ZYQAssetPickerController](https://github.com/heroims/ZYQAssetPickerController)作为底层相册调用实现，外层[JSImagePickerController](https://github.com/jacobsieradzki/JSImagePickerController)。整个功能开发完成，经过测试已经正式上线。
+![](/assets/images/2017/ZYQAssetPickerController-1.png)
+
+![](/assets/images/2017/ZYQAssetPickerController-2.png)
 
 今天一个同事发现重大bug点开相册必闪退。大汗！几经调试发现不是iOS系统版本原因（最低兼容iOS 8）。最后，连上同事手机调试代码发现报错。
 
@@ -35,4 +38,4 @@ ZYQAssetPickerController使用了iOS 8以后的Photos库实现功能。而iOS 8�
                     
     }
 
-小记：在使用Photos框架时，有些地方需要try，catch一下，以防特殊相册导致程序崩溃。
+> 小记：在使用Photos框架时，有些地方需要try，catch一下，以防特殊相册导致程序崩溃。
