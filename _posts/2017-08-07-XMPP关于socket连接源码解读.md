@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ZYQAssetPickerController奇怪的奔溃问题
+title:  XMPP关于socket连接源码解读
 date:   2017-08-07 23:20:00 +0800
 tags: 能工巧匠集
 ---
